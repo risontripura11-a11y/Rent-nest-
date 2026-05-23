@@ -1,0 +1,6 @@
+{
+  "name": "RentNest",
+  "description": "A community-focused house rental platform for finding and posting Bachelor stays, Sublets, and Full Flats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
